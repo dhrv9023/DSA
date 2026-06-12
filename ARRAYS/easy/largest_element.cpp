@@ -9,5 +9,5 @@ int main(){
             largest = arr[i];
         }
     }
-    cout<<largest;
+    cout<<largest<<endl;
 }
